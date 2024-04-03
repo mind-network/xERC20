@@ -1,6 +1,6 @@
 {
-    "name": "Mind LP StakeStone MindStone",
-    "symbol": "MindLP_Mock_Mind",
+    "name": "Mind StakeStone Ether",
+    "symbol": "MindSTONE",
     "chainDetails": [
         {
             "rpcEnvName": "BERACHAIN_TESTNET",
