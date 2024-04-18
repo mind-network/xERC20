@@ -1,9 +1,16 @@
 {
-    "name": "Mind StakeStone Ether",
-    "symbol": "MindSTONE",
+    "name": "Test MindSTONE Strategy",
+    "symbol": "tMindSTONE",
     "chainDetails": [
         {
             "rpcEnvName": "BERACHAIN_TESTNET",
+            "erc20": "0x0000000000000000000000000000000000000000",
+            "governor": "0xC2cc7cD24F7473700136f5496364e9F0B003ef4E",
+            "isNativeGasToken": false,
+            "bridgeDetails": []
+        },
+        {
+            "rpcEnvName": "SEPOLIA_TESTNET",
             "erc20": "0x0000000000000000000000000000000000000000",
             "governor": "0xC2cc7cD24F7473700136f5496364e9F0B003ef4E",
             "isNativeGasToken": false,

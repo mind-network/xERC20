@@ -1,18 +1,18 @@
 {
-    "name": "Test Mock StakeStone Ether",
-    "symbol": "tMockSTONE",
+    "name": "Mind",
+    "symbol": "MIND",
     "chainDetails": [
         {
-            "rpcEnvName": "BERACHAIN_TESTNET",
+            "rpcEnvName": "HOLESKY_TESTNET",
             "erc20": "0x0000000000000000000000000000000000000000",
-            "governor": "0xC2cc7cD24F7473700136f5496364e9F0B003ef4E",
+            "governor": "0x706273552B341C978ABFC8CEfCa8DC263b88465A",
             "isNativeGasToken": false,
             "bridgeDetails": []
         },
         {
-            "rpcEnvName": "SEPOLIA_TESTNET",
+            "rpcEnvName": "MUMBAI_TESTNET",
             "erc20": "0x0000000000000000000000000000000000000000",
-            "governor": "0xC2cc7cD24F7473700136f5496364e9F0B003ef4E",
+            "governor": "0x706273552B341C978ABFC8CEfCa8DC263b88465A",
             "isNativeGasToken": false,
             "bridgeDetails": []
         }
